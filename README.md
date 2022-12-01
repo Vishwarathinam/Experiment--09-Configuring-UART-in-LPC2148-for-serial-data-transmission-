@@ -1,9 +1,9 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
 Name :	VISHWA RATHINAM S
+
 Roll no :212221240063
- 
-### Configuring UART in LPC2148 for serial data transmission 
+
 
 ### Aim: 
 To configure internal UART for transferring serial data and display it on the Virtual terminal  
